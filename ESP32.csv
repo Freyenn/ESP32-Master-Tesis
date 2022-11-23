@@ -1,0 +1,39 @@
+Id,Identificador,Empaquetado,Cantidad,Identificación,Suministrador y ref,,,,Identificador,Empaquetado,Cantidad,Identificación
+1,R17,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,47k,,,,,R17,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,47k
+2,R15 R14 R13 R1 R5,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,5,10K,,,,,R15 R14 R13 R1 R5,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,5,10K
+3,J3,JST_EH_S3B-EH_1x03_P2.50mm_Horizontal,1,TempSol,,,,Resistencias,R2 R7 R6 R3,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,4,220
+4,R2 R7 R6 R3,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,4,220,,,,,R12 R9 R11 R10 R16,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,5,3.3K
+5,U4,SOP65P640X110-14N,1,74LVC125APW 118,,,,,R4,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,1K
+6,J1,BarrelJack_Horizontal,1,Jack-DC,,,,,C7 C6 C2,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,3,0.1uF
+7,,,,,,,,Capacitores,C3 C1,C_1210_3225Metric_Pad1.33x2.70mm_HandSolder,2,10uF
+8,U1,ESP32-WROOM-32,1,ESP32-WROOM-32,,,,,C5,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,0.33uF
+9,R12 R9 R11 R10,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,4,3.3K,,,,,C4,C_1210_3225Metric_Pad1.33x2.70mm_HandSolder,1,100uF/6.3V
+10,C7 C6 C2,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,3,0.1uF,,,,,J3,JST_EH_S3B-EH_1x03_P2.50mm_Horizontal,1,
+11,J12,TerminalBlock_bornier-2_P5.08mm,1,Screw_Terminal_01x02,,,,,J4 J2,JST_EH_S4B-EH_1x04_P2.50mm_Horizontal,2,
+12,J10,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,1,DO,,,,,J5 J6 J10,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,3,
+13,D3,LED_RGB_1210,1,LED_Dual_AAKK,,,,,J1,BarrelJack_Horizontal,1,Jack-DC
+14,BT1,S8421-45R_1,1,3v,,,,,J12,TerminalBlock_bornier-2_P5.08mm,1,Screw_Terminal_01x02
+15,Q1,TO-92_Inline,1,BC337,,,,,Q1,TO-92_Inline,1,BC337
+16,J5,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,1,Ph,,,,,U3,TO-251-3_Vertical,1,L7805
+17,J4,JST_EH_S4B-EH_1x04_P2.50mm_Horizontal,1,Ultrasonico,,,,,D4,D_DO-41_SOD81_P10.16mm_Horizontal,1,1N4007
+18,J2,JST_EH_S4B-EH_1x04_P2.50mm_Horizontal,1,Hum&Temp ,,,,,K1,Relay_SPDT_Finder_36.11,1,FINDER-36.11
+19,U3,TO-251-3_Vertical,1,L7805,,,,,J7,PinHeader_2x20_P2.54mm_Vertical,1,4G_Conn
+20,U2,SOT-223-3_TabPin2,1,AMS1117-3.3,,,,,J11,PinHeader_1x03_P2.54mm_Vertical,1,Program
+21,J11,PinHeader_1x03_P2.54mm_Vertical,1,Program,,,,,RST1,SW_Tactile_SPST_Angled_PTS645Vx83-2LFS,1,Reset
+22,J8,6.93071E+11,1,6.93071E+11,,,,,RST2,SW_SPST_B3U-1000P,1,Boot
+23,CFG1,SW_Tactile_SPST_Angled_PTS645Vx83-2LFS,1,Conf,,,,,CFG1,SW_Tactile_SPST_Angled_PTS645Vx83-2LFS,1,Conf
+24,C3 C1,C_1210_3225Metric_Pad1.33x2.70mm_HandSolder,2,10uF,,,,,,,,
+25,Y1,Crystal_AT310_D3.0mm_L10.0mm_Horizontal,1,32.768kHz,,,,,,,,
+26,U5,SOIC-8_3.9x4.9mm_P1.27mm,1,DS1307Z+,,,,,,,,
+27,RST2,SW_SPST_B3U-1000P,1,Boot,,,,,,,,
+28,C5,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,0.33uF,,,,,,,,
+29,D4,D_DO-41_SOD81_P10.16mm_Horizontal,1,1N4007,,,,,,,,
+30,R4,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,1K,,,,,,,,
+31,J9,RJ12_Amphenol_54601,1,RS,,,,,,,,
+32,C4,C_1210_3225Metric_Pad1.33x2.70mm_HandSolder,1,100uF/6.3V,,,,,,,,
+33,D2,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,1,Power,,,,,,,,
+34,D1,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,1,Config,,,,,,,,
+35,J6,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,1,Ec,,,,,,,,
+36,RST1,SW_Tactile_SPST_Angled_PTS645Vx83-2LFS,1,Reset,,,,,,,,
+37,K1,Relay_SPDT_Finder_36.11,1,FINDER-36.11,,,,,,,,
+38,J7,PinHeader_2x20_P2.54mm_Vertical,1,4G_Conn,,,,,,,,
